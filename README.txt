@@ -1,0 +1,1 @@
+Hasta donde me quede creamos un entorno virtual con pipenv, instalamos las librerias necesarias para pip, creamos un projecto con django y modificamos algunos aspectos de lo que se puede ver en panatalla(un puequeño menu con sus ventanas corresponidentes)
